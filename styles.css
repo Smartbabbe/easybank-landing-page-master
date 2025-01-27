@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    font-size: 18px;
+    font-family: Public Sans;
+}
+
+footer {
+  background-color: #2D314F;
+}
+
+#request {
+    background: linear-gradient(to right, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+    color: white;
+}
+
+.feature-icon {
+    padding-bottom: 2.5rem;
+}
+
+.feature h2 {
+    padding-bottom: 1.5rem;
+}
+
+.card-group {
+    display: flex;
+    gap: 2rem;
+}
+
+.card{
+    border: none !important;
+}
+
+.footer-brand {
+    filter: brightness(0) invert(1);
+    width: 50%;
+}
+
+.footer-lists li>a {
+    text-decoration: none;
+    color: white;
+}
